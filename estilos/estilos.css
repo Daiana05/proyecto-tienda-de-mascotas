@@ -1,0 +1,54 @@
+body {
+    font-family: "Arial", sans-serif;
+    /*background-color: rgb(73, 230, 81);*/
+}
+
+h1 {
+    color: #333;
+}
+
+#inicioA{
+    color: #533e03;
+    font-style:italic;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+#marca{
+    text-align: center;
+    font:italic bold 25px/25pt tahoma ,"times New Roman", arial ;
+}
+
+
+#miFooter{
+    text-align: center;
+    font-style:oblique;
+    font-size: 20px;
+
+
+}
+#premiumTEXTO{
+    font-style:italic;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 80px;
+
+}
+#superpremium{
+    
+    text-align: center;
+    font:italic bold 25px/25pt tahoma ,"times New Roman", arial ;
+    margin-bottom: 20px;
+}
+#miparrafo {
+    color: #131212; /* Color del texto */
+    font-style:italic;
+    font-size: 17px; /* Tamaño de la fuente */
+    line-height: 1,3; /* Altura de línea */
+    margin-bottom: 20px; 
+    font-weight: bold;
+}
+#miparrafo:hover {
+    background-color: #f0f0f0; /* Cambia el color de fondo al pasar el mouse sobre el párrafo */
+}
